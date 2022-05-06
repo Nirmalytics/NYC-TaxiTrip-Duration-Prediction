@@ -1,5 +1,5 @@
 # NYC-TaxiTrip-Duration-Prediction
- The aim of this assignment is just to explore the dataset and generate insights from it. 
+ The aim of this Project is just to the dataset and generate insights from it and build a model to Taxi Trip duration.
 
 ### Description of all the variables / features available in the dataset.
 
