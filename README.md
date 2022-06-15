@@ -1,6 +1,6 @@
 # NYC-TaxiTrip-Duration-Prediction
  
- Problem Statement:
+### Problem Statement:
 The NYC Taxi Company wants to predict the duration of each trip at the point when the trip starts
 
 ### Data Sources
@@ -129,5 +129,13 @@ Night: Distance (least), Speed (more)
 Distance and trip Duration have correlation and also causally connected
 Distance have correlation with Speed
 
+-----------------
+
 ## Installation
+
 NYC taxi trip duration was predicted using Linear Regression Alogorithm.
+
+Training Mean Absolute Error 0.014390202205253897
+Test Mean Absolute Error     0.014374795788467263
+
+--------
